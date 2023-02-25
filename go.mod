@@ -11,5 +11,5 @@ require (
 require (
 	github.com/TheTitanrain/w32 v0.0.0-20180517000239-4f5cfb03fabf // indirect
 	golang.org/x/net v0.0.0-20200222125558-5a598a2470a0 // indirect
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
